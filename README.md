@@ -8,19 +8,19 @@ To develop a python control code to move the mobilerobot along the predefined pa
 2. Python 3.7
 
 ## Procedure
-Step 1:
+## Step 1:
 Import the robomaster and time.
-Step 2:
+## Step 2:
 Initialize the robot.
-Step 3:
+## Step 3:
 Start video streaming.
-Step 4:
+## Step 4:
 Measure the path in meters and perform movements and set LED colors.
-Step 5:
+## Step 5:
 Stop video streaming.
-Step 6:
+## Step 6:
 Close the robot connection.
-Step 7:
+## Step 7:
 End the Program.
 ## Program
 ```python
